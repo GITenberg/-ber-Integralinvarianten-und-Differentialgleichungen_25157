@@ -1,0 +1,32 @@
+_repo: -ber-Integralinvarianten-und-Differentialgleichungen_25157
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lie, Sophus
+    alias: Lie, Marius Sophus
+    birthdate: 1842
+    deathdate: 1899
+    gutenberg_agent_id: '31111'
+    url: http://www.gutenberg.org/2009/agents/31111
+    wikipedia: http://en.wikipedia.org/wiki/Sophus_Lie
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- DE Sachbuch
+gutenberg_issued: '2008-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25157'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Integrals'
+- !lcc 'QA'
+- !lcsh 'Differential equations'
+title: Über Integralinvarianten und Differentialgleichungen
+url: http://www.gutenberg.org/ebooks/25157
