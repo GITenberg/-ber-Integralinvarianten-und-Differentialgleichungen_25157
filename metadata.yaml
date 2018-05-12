@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31111
     wikipedia: http://en.wikipedia.org/wiki/Sophus_Lie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25157#-ber-Integralinvarianten-und-Differentialgleichungen
 gutenberg_bookshelf:
 - Mathematics
 - DE Sachbuch
